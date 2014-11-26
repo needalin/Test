@@ -25,7 +25,7 @@ Main .cpp file
 	
 	value.members();
 	
-    system("pause"); 
+    	system("pause"); 
     
 	return 0;
     }
