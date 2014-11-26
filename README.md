@@ -2,19 +2,19 @@ GoGolf
 ======
 test .cpp file
 
+
 '''C++
+    // ConsoleApplication6.cpp Defines the entry point for the console application.
 
-// ConsoleApplication6.cpp Defines the entry point for the console application.
+    #include <iostream> // IDE library directive does not need quotes
 
-#include <iostream> // IDE library directive does not need quotes
+    #include "golf.h"
 
-#include "golf.h"
+    using namespace std;
 
-using namespace std;
+    int main()
 
-int main()
-
-{
+    {
 	compare get_values // 'weather' is the name of the class "aka world in lecture tutorial" 
 	
     	value.get_values  // 'variable1' is the piece of the math function I want to run 
@@ -26,7 +26,5 @@ int main()
     system("pause"); 
     
 	return 0;
-}
-
-
+    }
 '''
