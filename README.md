@@ -72,12 +72,14 @@ Header File
 	std::cin >> val;
 
 	std::string res = "even"; //set a default value 
-	if (val%2) res = "odd"; //a number is tested to check if it is TRUE or FALSE. % in C++ means "remainder" modulus, 
+	if (val%2) res = "odd"; //a number is tested to check if it is TRUE or FALSE. 
+	//% in C++ means "remainder" modulus
 	//false = remainder 0; true = remainder 1
 	//means: IF true, output "if" statement. IF  false, skip "if" statement
 
 	//boolean data type: data type that holds either true or false (1 or 0)
-	//comparison statement: evaluates a statement by comparison. 2+2 == 4 evaluates to true 2+5 evaluates as false.
+	//comparison statement: evaluates a statement by comparison. 
+	//2+2 == 4 evaluates to true 2+5 evaluates as false.
 
 	std::cout << "the value" << val << "is an" << res<< "number\n";
         }
