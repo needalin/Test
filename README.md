@@ -1,4 +1,4 @@
-GoGolf (C++ Project)
+Test (C++ Project)
 ======
 Main .cpp file
 ------
