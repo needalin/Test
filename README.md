@@ -1,10 +1,10 @@
-GoGolf
+GoGolf (C++ Project)
 ======
-test .cpp file
+Main .cpp file
 
 
-'''C++
-    // ConsoleApplication6.cpp Defines the entry point for the console application.
+'''
+    ConsoleApplication6.cpp Defines the entry point for the console application.
 
     #include <iostream> // IDE library directive does not need quotes
 
